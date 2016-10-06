@@ -49,7 +49,7 @@ var htmltemplate =
                 ${heading}
             </h3>
             <div>
-                ${date}
+                ${time}
             </div>
             <div>
                ${content}
