@@ -29,7 +29,7 @@ var title = data.title;
 var time = data.time;
 var heading = data.heading;
 var content = data.content;
-var htmlTemplate = 
+var htmltemplate = 
     `
     <html>
     <head>
